@@ -5,11 +5,11 @@ The OSI is mandatory in Germany and in case you work with people from all around
 
 ## And this is where the problem begins: 
 
-Every institution has an officer for hazardous substance management - the person that cares for proper documentation, lab safety including storage. For most institutions, this is not the persons’ only job (mostly they are scientists or lab technicians besides that). Currently, the safety officer needs to write the OSI by hand or by copy-pasting from the safety datasheet of the hazardous substance. This leads to two main problems:  
+Every institution has an officer for hazardous substance management - the person that cares for proper documentation, lab safety including storage. For most institutions, this is not the persons’ only job (mostly they are scientists or lab technicians besides that). Currently, the safety officer needs to write the OSI by hand or by copy-pasting from the safety datasheet of the hazardous substance. This leads to three main problems:  
 
-1. The instructions are not written due to the time that it takes (besides other administrational tasks). 
-
-2. The instructions are written, but due to the human factor – the quality and structure depend on the author.  
+1. The instructions are not written at all due to the amount of different substances that exist in research institions.
+2. The instructions come in different qualities, depending on who is the author.
+3. The documentation process as a whole blocks a huge amount of time (and indirectly money), which could be spent on the actual research.
 
 Having no instructions or low quality instructions leads to people handling chemical substances wrong and/or thereby putting themselves and others at risk.  
 
